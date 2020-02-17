@@ -37,7 +37,10 @@
 			children = (
 				F415977923E9CF1800506006 /* README.md */,
 				F415977B23E9CF2500506006 /* LICENSE */,
-				F415977E23E9D02C00506006 /* MalidService */,
+				F415977423E9CF1300506006 /* main.m */,
+				F415977523E9CF1300506006 /* MalidServiceProvider.h */,
+				F415977623E9CF1300506006 /* MalidServiceProvider.m */,
+				F415976823E9BCCA00506006 /* Info.plist */,
 				F415975E23E9BCC800506006 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,17 +51,6 @@
 				F415975D23E9BCC800506006 /* MalidService.service */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		F415977E23E9D02C00506006 /* MalidService */ = {
-			isa = PBXGroup;
-			children = (
-				F415977423E9CF1300506006 /* main.m */,
-				F415977523E9CF1300506006 /* MalidServiceProvider.h */,
-				F415977623E9CF1300506006 /* MalidServiceProvider.m */,
-				F415976823E9BCCA00506006 /* Info.plist */,
-			);
-			name = MalidService;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
